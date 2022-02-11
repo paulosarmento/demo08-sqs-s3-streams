@@ -1,0 +1,20 @@
+{
+  "Records": [
+    {
+      "messageId": "1bd5ca93-0ceb-4fc7-838c-00a1b8f97920",
+      "receiptHandle": "AQEBLcq9Gy6lrhYY2+u8sjBALxaxDWDOx4pnQV5Z1Nsuoa4Yt8YSsyfs+Fu/f7tdzbaa8TeC6yTl8lBIUcl5wlMbLIdJ9xLnznnXuyOHvsV7IyPaBuQL7Oxr66o4sSCWJG/OeTw+ksraF8Rjt32Fl9a8olwX16kEvNAko51rnq7omYZh1pkD7kqL2ILLHVW7FISY6KAQHKE1kA11WNdPUqjBIqPJw458eINM7FqxKhvBlkITSu4AhiMKpGI7ReEYj/hyABO7OGrsN7LfTDT5Rk+/m05l/n6+6ysfCqKmIwfH60ungwqZcwjdjzeEMbwH5fWmKxWHEkv224g6IXbc+2gpb/e3SUDoBigplX8A1MrGGOVcwS+/DCUYOnpDeVZ01omF1njgTYhg+eE+f7vOeLxQhg==",
+      "body": "{\"name\":\"Paulo\"}",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "SentTimestamp": "1644413162803",
+        "SenderId": "AIDAQEQRTSG3HM5LTEOBA",
+        "ApproximateFirstReceiveTimestamp": "1644413162809"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "791f0502de0bf6c3c151bbd9c1220849",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:us-east-1:009700610486:file-handler",
+      "awsRegion": "us-east-1"
+    }
+  ]
+}
