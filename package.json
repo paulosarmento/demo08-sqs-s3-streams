@@ -22,7 +22,7 @@
     "serverless": "^2.70.0",
     "serverless-localstack": "^0.4.35",
     "serverless-mocha-plugin": "^1.12.0",
-    "serverless-offline": "^8.3.1"
+    "serverless-offline": "^12.0.3"
   },
   "dependencies": {
     "aws-sdk": "^2.1065.0",
