@@ -19,7 +19,7 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15",
-    "serverless": "^2.70.0",
+    "serverless": "^3.27.0",
     "serverless-localstack": "^0.4.35",
     "serverless-mocha-plugin": "^1.12.0",
     "serverless-offline": "^8.3.1"
